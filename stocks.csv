@@ -132,7 +132,7 @@ BRR,Cong ty Co phan Cao su Ba Ria,UPCOMINDEX,stock
 BRS,Cong ty Co phan Dich vu Do thi Ba Ria,UPCOMINDEX,stock
 BSA,Cong ty Co phan Thuy dien Buon Don,UPCOMINDEX,stock
 BSC,Cong ty Co phan Dich vu Ben Thanh,HNXINDEX,stock
-"BSD,""Cong ty Co phan Bia, Ruou Sai Gon - Dong Xuan"",UPCOMINDEX,stock"
+BSD,Cong ty Co phan Bia-Ruou Sai Gon - Dong Xuan,UPCOMINDEX,stock
 BSG,Cong ty Co phan Xe khach Sai Gon,UPCOMINDEX,stock
 BSH,Cong ty Co phan Bia Sai Gon - Ha Noi,UPCOMINDEX,stock
 BSI,Cong ty Co phan Chung khoan BIDV,VNINDEX,stock
@@ -241,7 +241,7 @@ CMV,Cong ty Co phan Thuong nghiep Ca Mau,VNINDEX,stock
 CMW,Cong ty Co phan Cap nuoc Ca Mau,UPCOMINDEX,stock
 CMX,Cong ty Co phan CAMIMEX Group,VNINDEX,stock
 CNC,Cong ty Co phan Cong nghe cao Traphaco,UPCOMINDEX,stock
-"CNN,""Cong ty Co phan Tu van Cong nghe, Thiet bi va Kiem dinh Xay dung - CONINCO"",UPCOMINDEX,stock"
+CNN,Cong ty Co phan Tu van Cong nghe-Thiet bi va Kiem dinh Xay dung - CONINCO,UPCOMINDEX,stock
 CNT,Cong ty Co phan Tap doan CNT,UPCOMINDEX,stock
 CNG,Cong ty Co phan CNG Viet Nam,VNINDEX,stock
 COM,Cong ty Co phan Vat tu Xang dau,VNINDEX,stock
@@ -676,7 +676,7 @@ ITA,Cong ty Co phan Dau tu va Cong nghiep Tan Tao,VNINDEX,stock
 ITC,Cong ty Co phan Dau tu - Kinh doanh nha,VNINDEX,stock
 ITD,Cong ty Co phan Cong nghe Tien Phong,VNINDEX,stock
 ITQ,Cong ty Co phan Tap doan Thien Quang,HNXINDEX,stock
-"ITS,""Cong ty Co phan Dau tu, Thuong mai va Dich vu - Vinacomin"",UPCOMINDEX,stock"
+ITS,Cong ty Co phan Dau tu-Thuong mai va Dich vu - Vinacomin,UPCOMINDEX,stock
 IVS,Cong ty Co phan Chung khoan Guotai Junan (Viet Nam),HNXINDEX,stock
 JOS,Cong ty CP Che bien Thuy san Xuat khau Minh Hai,UPCOMINDEX,stock
 JVC,Cong ty Co phan Dau tu va Phat trien Y te Viet Nhat,VNINDEX,stock
@@ -708,7 +708,7 @@ KTL,Cong ty Co phan Kim khi Thang Long,UPCOMINDEX,stock
 KTS,Cong ty Co phan Duong Kon Tum,HNXINDEX,stock
 KTT,Cong ty Co phan Tap doan Dau tu KTT,HNXINDEX,stock
 KVC,Cong ty Co phan San xuat Xuat nhap khau Inox Kim Vi,UPCOMINDEX,stock
-"KHD,""Cong ty Co phan Khai thac, Che bien Khoang san Hai Duong"",UPCOMINDEX,stock"
+KHD,Cong ty Co phan Khai thac - Che bien Khoang san Hai Duong,UPCOMINDEX,stock
 KHG,Cong ty Co phan Tap doan Khai Hoan Land,VNINDEX,stock
 KHL,Cong ty Co phan Khoang san va Vat lieu Xay dung Hung Long,UPCOMINDEX,stock
 KHP,Cong ty Co phan Dien luc Khanh Hoa,VNINDEX,stock
@@ -917,7 +917,7 @@ ONW,Cong ty Co phan Dich vu Mot The gioi,UPCOMINDEX,stock
 OPC,Cong ty Co phan Duoc Pham OPC,VNINDEX,stock
 ORS,Cong ty Co phan Chung khoan Tien Phong,VNINDEX,stock
 PAC,Cong ty Co phan Pin Ac quy Mien Nam,VNINDEX,stock
-"PAI,""Cong ty Co phan Cong nghe thong tin, Vien thong va Tu dong hoa Dau khi"",UPCOMINDEX,stock"
+PAI,Cong ty Co phan Cong nghe thong tin-Vien thong va Tu dong hoa Dau khi,UPCOMINDEX,stock
 PAN,Cong ty Co phan Tap doan PAN,VNINDEX,stock
 PAP,Cong ty Co phan Dau khi dau tu khai thac Cang Phuoc An,UPCOMINDEX,stock
 PAS,Cong ty Co phan Quoc te Phuong Anh,UPCOMINDEX,stock
@@ -984,7 +984,7 @@ PNT,Cong ty Co phan Ky thuat Xay dung Phu Nhuan,UPCOMINDEX,stock
 PNG,Cong ty Co phan Thuong Mai Phu Nhuan,UPCOMINDEX,stock
 POB,Cong ty Co phan Xang dau Dau khi Thai Binh,UPCOMINDEX,stock
 POM,Cong ty Co phan Thep Pomina,VNINDEX,stock
-"POS,""Cong ty Co phan Dich vu lap dat, van hanh va bao duong cong trinh dau khi bien PTSC"",UPCOMINDEX,stock"
+POS,Cong ty Co phan Dich vu lap dat - van hanh va bao duong cong trinh dau khi bien PTSC,UPCOMINDEX,stock
 POT,Cong ty Co phan Thiet bi Buu dien,HNXINDEX,stock
 POV,Cong ty Co phan Xang dau Dau khi Vung Ang,UPCOMINDEX,stock
 POW,Tong Cong ty Dien luc Dau khi Viet Nam - CTCP,VNINDEX,stock
@@ -1168,7 +1168,7 @@ SGS,Cong ty Co phan Van tai bien Sai Gon,UPCOMINDEX,stock
 SGT,Cong ty Co phan Cong nghe Vien thong Sai Gon,VNINDEX,stock
 SGI,Cong ty Co phan Dau tu phat trien Sai Gon 3 Group,UPCOMINDEX,stock
 SHA,Cong ty Co phan Son Ha Sai Gon,VNINDEX,stock
-SHB,Ngan hang Thuong mai Co phan Sai Gon – Ha Noi,VNINDEX,stock
+SHB,Ngan hang Thuong mai Co phan Sai Gon Ha Noi,VNINDEX,stock
 SHC,Cong ty Co phan Hang hai Sai Gon,UPCOMINDEX,stock
 SHE,Cong ty Co phan Phat trien Nang Luong Son Ha,HNXINDEX,stock
 SHG,Tong Cong ty Co phan Song Hong,UPCOMINDEX,stock
@@ -1419,7 +1419,7 @@ VAB,Ngan hang Thuong mai Co phan Viet A,UPCOMINDEX,stock
 VAF,Cong ty Co phan Phan lan nung chay Van Dien,VNINDEX,stock
 VAV,Cong ty Co phan VIWACO,UPCOMINDEX,stock
 VBB,Ngan hang Thuong mai Co phan Viet Nam Thuong Tin,UPCOMINDEX,stock
-"VBC,""Cong ty Co phan Nhua, Bao bi Vinh"",HNXINDEX,stock"
+VBC,Cong ty Co phan Nhua-Bao bi Vinh,HNXINDEX,stock
 VBG,Cong ty Co phan Dia chat Viet Bac - TKV,UPCOMINDEX,stock
 VBH,Cong ty Co phan Dien tu Binh Hoa,UPCOMINDEX,stock
 VC1,Cong ty Co phan Xay dung so 1,HNXINDEX,stock
