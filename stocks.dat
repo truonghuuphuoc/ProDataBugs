@@ -1,11 +1,47 @@
 Ticker,Company,Market,Type
-AAA,Cong ty Co phan Nhua An Phat Xanh,HSX,stock
+^CL,Crude Oil WTI Futures (CFD),COMMODITY,commodity
+^DJI,Dow Jones Industrial Average - United States (NYSE),WORLDINDEX,worldindex
+^DX,US Dollar Index United States (NYSE),FOREX,forex
+^DXY,US Dollar Index Futures (CFD),FOREX,worldindex
+^GC,Gold Futures (CFD),COMMODITY,commodity
+^HG,Copper Futures (CFD),COMMODITY,commodity
+^LCO,Brent Oil Futures (CFD),COMMODITY,commodity
+^NDX,NASDAQ 100 - United States (NASDAQ),WORLDINDEX,worldindex
+^NG,Natural Gas Futures (CFD),COMMODITY,commodity
+^SI,Silver Futures (CFD),COMMODITY,commodity
+^VFS,VinFast Auto (NASDAQ),WORLDINDEX,worldindex
+^ZS,US Soybeans Futures (CFD),COMMODITY,commodity
+^ZW,US Wheat Futures (CFD),COMMODITY,commodity
+0001,Dau khi,HSX,sector
+1300,Hoa chat,HSX,sector
+1700,Tai nguyen co ban,HSX,sector
+1733,Lam san va Che bien Go,HSX,sector
+1757,Thep  va san pham thep,HSX,sector
+1771,Khai thac than,HSX,sector
+1775,Khai khoang,HSX,sector
+2300,Xay dung va vat lieu,HSX,sector
+2357,Xay dung,HSX,sector
+2700,Hang va Dich vu Cong nghiep,HSX,sector
+2773,Van tai thuy,HSX,sector
+3700,Hang tieu dung,HSX,sector
+4500,Y te,HSX,sector
+4577,Duoc pham,HSX,sector
+6500,Vien thong,HSX,sector
+7535,San xuat va Phan phoi Dien,HSX,sector
+7575,Tien ich Cong dong,HSX,sector
+8300,Ngan hang,HSX,sector
+8500,Bao hiem,HSX,sector
+8600,Bat dong san,HSX,sector
+8777,Chung khoan,HSX,sector
+9500,Cong nghe Thong tin,HSX,sector
 A32,Cong ty Co phan 32,UPCOM,stock
+AAA,Cong ty Co phan Nhua An Phat Xanh,HSX,stock
 AAH,Cong ty Co phan Hop Nhat,UPCOM,stock
 AAM,Cong ty Co Phan Thuy San MeKong,HSX,stock
 AAS,Cong ty Co phan Chung khoan SmartInvest,UPCOM,stock
 AAT,Cong ty Co phan Tap doan Tien Son Thanh Hoa,HSX,stock
 AAV,Cong ty Co phan AAV Group,HNX,stock
+AAVEUSDT,AAVE/USDT,BINANCE,crypto
 ABB,Ngan hang Thuong mai Co phan An Binh,UPCOM,stock
 ABC,Cong ty Co phan Truyen thong VMG,UPCOM,stock
 ABI,Cong ty Co phan Bao hiem Ngan hang Nong Nghiep,UPCOM,stock
@@ -21,6 +57,7 @@ ACL,Cong ty Co phan Xuat nhap khau Thuy san Cuu Long An Giang,HSX,stock
 ACM,Cong ty Co phan Tap doan Khoang san A Cuong,UPCOM,stock
 ACS,Cong ty Co phan Xay lap Thuong mai 2,UPCOM,stock
 ACV,Tong Cong ty Cang Hang khong Viet Nam - CTCP,UPCOM,stock
+ADAUSDT,ADA/USDT,BINANCE,crypto
 ADC,Cong ty Co phan Mi thuat va Truyen thong,HNX,stock
 ADG,Cong ty Co phan Clever Group,HSX,stock
 ADP,Cong ty Co phan Son A Dong,HSX,stock
@@ -64,12 +101,15 @@ ATA,Cong ty Co phan NTACO,UPCOM,stock
 ATB,Cong ty Co phan An Thinh,UPCOM,stock
 ATG,Cong ty Co phan An Truong An,UPCOM,stock
 ATS,Cong ty Co phan Tap doan Duoc pham Atesco,HNX,stock
+AUDUSD,AUD/USD,FOREX,forex
+AVAXUSDT,AVAX/USDT,BINANCE,crypto
 AVC,Cong ty Co phan Thuy dien A Vuong,UPCOM,stock
 AVF,Cong ty Co phan Viet An,UPCOM,stock
 B82,Cong ty Co phan 482,UPCOM,stock
 BAB,Ngan hang Thuong mai Co phan Bac A,HNX,stock
 BAF,Cong ty Co phan Nong nghiep BAF Viet Nam,HSX,stock
 BAL,Cong ty Co phan Bao bi Bia - Ruou - Nuoc giai khat,UPCOM,stock
+BANANAUSDT,BANANA/USDT,BINANCE,crypto
 BAX,Cong ty Co phan Thong Nhat,HNX,stock
 BBC,Cong ty Co phan Bibica,HSX,stock
 BBH,Cong ty Co phan Bao bi Hoang Thach,UPCOM,stock
@@ -86,6 +126,7 @@ BCM,Tong Cong ty Dau tu va Phat trien Cong nghiep - CTCP,HSX,stock
 BCP,Cong ty Co phan Duoc Enlie,UPCOM,stock
 BCR,Cong ty Co phan BCG Land,UPCOM,stock
 BCV,Cong ty co phan Du lich va Thuong mai Bang Giang Cao Bang - Vimico,UPCOM,stock
+BCHUSDT,BCH/USDT,BINANCE,crypto
 BDB,Cong ty Co phan Sach va Thiet bi Binh Dinh,HNX,stock
 BDG,Cong ty Co phan May mac Binh Duong,UPCOM,stock
 BDT,Cong ty Co phan Xay lap va Vat lieu xay dung Dong Thap,UPCOM,stock
@@ -103,6 +144,7 @@ BHN,Tong Cong ty Co phan Bia - Ruou - Nuoc giai khat Ha Noi,HSX,stock
 BHP,Cong ty Co phan Bia Ha Noi - Hai Phong,UPCOM,stock
 BIC,Tong Cong ty Co phan Bao hiem Ngan hang Dau tu va Phat trien Viet Nam,HSX,stock
 BID,Ngan hang Thuong mai Co phan Dau tu va Phat trien Viet Nam,HSX,stock
+BIFIUSDT,BIFI/USDT,BINANCE,crypto
 BIG,Cong ty co phan BIG Invest Group,UPCOM,stock
 BII,Cong ty Co phan Dau tu va Phat trien Cong nghiep Bao Thu,UPCOM,stock
 BIO,Cong ty Co phan Vac xin va Sinh pham Nha Trang,UPCOM,stock
@@ -123,6 +165,7 @@ BMP,Cong ty Co phan Nhua Binh Minh,HSX,stock
 BMS,Cong ty Co phan Chung khoan Bao Minh,UPCOM,stock
 BMV,Cong ty Co phan Bot my Vinafood 1,UPCOM,stock
 BNA,Cong ty Co phan Dau tu San xuat Bao Ngoc,HNX,stock
+BNBUSDT,BNB/USDT,BINANCE,crypto
 BNW,Cong ty Co phan Nuoc sach Bac Ninh,UPCOM,stock
 BOT,Cong ty Co phan BOT Cau Thai Ha,UPCOM,stock
 BPC,Cong ty Co phan Vicem Bao bi Bim Son,HNX,stock
@@ -144,6 +187,8 @@ BST,Cong ty Co phan Sach va Thiet bi Binh Thuan,HNX,stock
 BT1,Cong ty Co phan Bao ve thuc vat 1 Trung uong,UPCOM,stock
 BT6,Cong ty Co phan BETON 6,UPCOM,stock
 BTB,Cong ty Co phan Bia Ha Noi - Thai Binh,UPCOM,stock
+BTCUSD,BTC/USD (Bitfinex),FOREX,worldindex
+BTCUSDT,BTC/USDT,BINANCE,crypto
 BTD,Cong ty Co phan Be tong ly tam Thu Duc,UPCOM,stock
 BTG,Cong ty Co phan Bao bi Tien Giang,UPCOM,stock
 BTN,Cong ty Co phan Dau tu Bitco Binh Dinh,UPCOM,stock
@@ -179,7 +224,6 @@ CAN,Cong ty Co phan Do hop Ha Long,HNX,stock
 CAP,Cong ty Co phan Lam Nong san Thuc pham Yen Bai,HNX,stock
 CAR,Cong ty co phan Tap doan Giao duc Tri Viet,UPCOM,stock
 CAT,Cong ty Co phan Thuy san Ca Mau,UPCOM,stock
-CAV,Cong ty CP Day cap dien Viet Nam,HSX,stock
 CBI,Cong ty Co phan Gang thep Cao Bang,UPCOM,stock
 CBS,Cong ty Co phan Mia duong Cao Bang,UPCOM,stock
 CC1,Tong Cong ty Xay dung so 1 - CTCP,UPCOM,stock
@@ -245,6 +289,7 @@ CNN,Cong ty Co phan Tu van Cong nghe-Thiet bi va Kiem dinh Xay dung - CONINCO,UP
 CNT,Cong ty Co phan Tap doan CNT,UPCOM,stock
 CNG,Cong ty Co phan CNG Viet Nam,HSX,stock
 COM,Cong ty Co phan Vat tu Xang dau,HSX,stock
+COMPUSDT,COMP/USDT,BINANCE,crypto
 CPA,Cong ty Co phan Ca phe Phuoc An,UPCOM,stock
 CPC,Cong ty Co phan Thuoc sat trung Can Tho,HNX,stock
 CPI,Cong ty Co phan Dau tu Cang Cai Lan,UPCOM,stock
@@ -292,6 +337,7 @@ DAG,Cong ty Co phan Tap doan Nhua Dong A,HSX,stock
 DAH,Cong ty Co phan Tap doan Khach san Dong A,HSX,stock
 DAN,Cong ty Co phan Duoc Danapha,UPCOM,stock
 DAS,Cong ty Co phan May - Thiet bi Dau khi Da Nang,UPCOM,stock
+DASHUSDT,DASH/USDT,BINANCE,crypto
 DAT,Cong ty Co phan Dau tu Du lich va Phat trien Thuy san,HSX,stock
 DBC,Cong ty Co phan Tap doan Dabaco Viet Nam,HSX,stock
 DBD,Cong ty Co phan Duoc - Trang thiet bi y te Binh Dinh,HSX,stock
@@ -313,6 +359,7 @@ DDH,Cong ty Co phan Dam bao giao thong duong thuy Hai Phong,UPCOM,stock
 DDM,Cong ty Co phan Hang hai Dong Do,UPCOM,stock
 DDN,Cong ty Co phan Duoc - Thiet bi y te Da Nang,UPCOM,stock
 DDV,Cong ty Co phan DAP - Vinachem,UPCOM,stock
+DEXEUSDT,DEXE/USDT,BINANCE,crypto
 DFC,Cong ty Co phan Xich lip Dong Anh,UPCOM,stock
 DFF,Cong ty Co phan Tap doan Dua Fat,UPCOM,stock
 DGC,Cong ty Co phan Tap doan Hoa chat Duc Giang,HSX,stock
@@ -353,6 +400,7 @@ DNT,Cong ty Co phan Du lich Dong Nai,UPCOM,stock
 DNW,Cong ty Co phan Cap nuoc Dong Nai,UPCOM,stock
 DNH,Cong ty Co phan Thuy dien Da Nhim - Ham Thuan - Da Mi,UPCOM,stock
 DOC,Cong ty Co phan Vat tu nong nghiep Dong Nai,UPCOM,stock
+DOGEUSDT,DOGE/USDT,BINANCE,crypto
 DOP,Cong ty Co phan Van tai Xang dau Dong Thap,UPCOM,stock
 DP1,Cong ty Co phan Duoc pham Trung uong CPC1,UPCOM,stock
 DP2,Cong ty Co phan Duoc pham Trung uong 2,UPCOM,stock
@@ -413,6 +461,7 @@ E29,Cong ty co phan Dau tu Xay dung va Ky thuat 29,UPCOM,stock
 EBS,Cong ty Co phan Sach Giao duc tai Thanh pho Ha Noi,HNX,stock
 ECI,Cong ty Co phan Tap doan ECI,HNX,stock
 EFI,Cong ty Co phan Dau tu Tai chinh Giao duc,UPCOM,stock
+EGLDUSDT,EGLD/USDT,BINANCE,crypto
 EIB,Ngan hang Thuong mai Co phan Xuat nhap khau Viet Nam,HSX,stock
 EIC,Cong ty Co phan EVN Quoc Te,UPCOM,stock
 EID,Cong ty Co phan Dau tu va Phat trien Giao duc Ha Noi,HNX,stock
@@ -421,12 +470,17 @@ ELC,Cong ty Co phan Cong nghe - Vien thong ELCOM,HSX,stock
 EME,Cong ty Co phan Dien Co,UPCOM,stock
 EMG,Cong ty Co phan Thiet bi Phu tung Co dien,UPCOM,stock
 EMS,Tong Cong ty Chuyen phat nhanh Buu dien - Cong ty Co phan,UPCOM,stock
+ENSUSDT,ENS/USDT,BINANCE,crypto
+EOSUSDT,EOS/USDT,BINANCE,crypto
 EPC,Cong ty Co phan Ca Phe Ea Pok,UPCOM,stock
 EPH,Cong ty Co phan Dich vu Xuat ban Giao duc Ha Noi,UPCOM,stock
+ETHUSDT,ETH/USDT,BINANCE,crypto
+EURUSD,EUR/USD,FOREX,forex
 EVE,Cong ty Co phan Everpia,HSX,stock
 EVF,Cong ty Tai chinh Co phan Dien Luc,HSX,stock
 EVG,Cong ty Co phan Tap doan Everland,HSX,stock
 EVS,Cong ty Co phan Chung khoan Everest,HNX,stock
+FARMUSDT,FARM/USDT,BINANCE,crypto
 FBA,Cong ty Co phan Tap doan Quoc te FBA,UPCOM,stock
 FBC,Cong ty Co phan Co khi Pho Yen,UPCOM,stock
 FCC,Cong ty Co phan Lien hop Thuc pham,UPCOM,stock
@@ -454,6 +508,7 @@ FT1,Cong ty Co phan Phu tung may so 1,UPCOM,stock
 FTI,Cong ty Co phan Cong nghiep - Thuong mai Huu Nghi,UPCOM,stock
 FTM,Cong ty Co phan Dau tu va Phat trien Duc Quan,UPCOM,stock
 FTS,Cong ty Co phan Chung khoan FPT,HSX,stock
+FTXIN9,FTSE China A50 - China (Shanghai),WORLDINDEX,worldindex
 FUCTVGF3,Quy Dau tu Tang truong Thien Viet 3,HSX,stock
 FUCTVGF4,Quy Dau tu Tang truong Thien Viet 4,HSX,stock
 FUCTVGF5,Quy dau tu tang truong Thien Viet 5,HSX,stock
@@ -475,6 +530,7 @@ G20,Cong ty Co phan Dau tu Det may Vinh Phuc,UPCOM,stock
 G36,Tong Cong ty 36 - Cong ty Co phan,UPCOM,stock
 GAB,Cong ty Co phan Dau tu Khai khoang & Quan ly Tai san FLC,UPCOM,stock
 GAS,Tong Cong ty Khi Viet Nam - Cong ty Co phan,HSX,stock
+GBPUSD,GBP/USD,FOREX,forex
 GCB,Cong ty Co phan PETEC Binh Dinh,UPCOM,stock
 GCF,Cong ty Co phan Thuc pham G.C,UPCOM,stock
 GDA,Cong ty Co phan Ton Dong A,UPCOM,stock
@@ -496,7 +552,9 @@ GMC,Cong ty Co phan Garmex Sai Gon,HSX,stock
 GMD,Cong ty Co phan Gemadept,HSX,stock
 GMH,Cong ty Co phan Minh Hung Quang Tri,HSX,stock
 GMX,Cong ty Co phan Gach ngoi Gom xay dung My Xuan,HNX,stock
+GMXUSDT,GMX/USDT,BINANCE,crypto
 GND,Cong ty Co phan Gach ngoi Dong Nai,UPCOM,stock
+GNOUSDT,GNO/USDT,BINANCE,crypto
 GPC,Cong ty Co phan Tap doan Green+,UPCOM,stock
 GSM,Cong ty Co phan Thuy dien Huong Son,UPCOM,stock
 GSP,Cong ty Co phan Van tai San pham Khi Quoc te,HSX,stock
@@ -547,7 +605,6 @@ HDP,Cong ty Co phan Duoc Ha Tinh,UPCOM,stock
 HDW,Cong ty Co phan Kinh doanh Nuoc sach Hai Duong,UPCOM,stock
 HEC,Cong ty Co phan Tu van xay dung Thuy Loi II,UPCOM,stock
 HEJ,Tong Cong ty Tu van Xay dung Thuy Loi Viet Nam - CTCP,UPCOM,stock
-HEM,Cong ty Co phan Che tao Dien co Ha Noi,UPCOM,stock
 HEP,Cong ty Co phan Moi truong va Cong trinh do thi Hue,UPCOM,stock
 HES,Cong ty Co phan Dich vu Giai tri Ha Noi,UPCOM,stock
 HEV,Cong ty Co phan Sach Dai hoc - Day nghe,HNX,stock
@@ -556,7 +613,6 @@ HFC,Cong ty Co phan Xang dau HFC,UPCOM,stock
 HFX,Cong ty Co phan San xuat - Xuat nhap khau Thanh Ha,UPCOM,stock
 HGM,Cong ty Co phan Co khi va Khoang san Ha Giang,HNX,stock
 HGT,Cong ty Co phan Du lich Huong Giang,UPCOM,stock
-HGW,Cong ty Co phan Cap thoat nuoc - Cong trinh Do thi Hau Giang,UPCOM,stock
 HHC,Cong ty Co phan Banh keo Hai Ha,HNX,stock
 HHG,Cong ty Co phan Hoang Ha,UPCOM,stock
 HHN,Cong ty Co phan Van tai va Dich vu Hang hoa Ha Noi,UPCOM,stock
@@ -570,13 +626,13 @@ HII,Cong ty Co phan An Tien Industries,HSX,stock
 HIO,Cong ty Co Phan Helio Energy,UPCOM,stock
 HJC,Cong ty Co phan Hoa Viet,UPCOM,stock
 HJS,Cong ty Co phan Thuy dien Nam Mu,HNX,stock
+HK50,Hong Kong Index (CFD),WORLDINDEX,worldindex
 HKB,Cong ty Co phan Nong nghiep va Thuc pham Ha Noi - Kinh Bac,UPCOM,stock
 HKT,Cong ty Co phan Dau tu Ego Viet Nam,HNX,stock
 HLA,Cong ty Co phan Huu Lien A Chau,UPCOM,stock
 HLB,Cong ty Co phan Bia va Nuoc giai khat Ha Long,UPCOM,stock
 HLC,Cong ty Co phan Than Ha Lam - Vinacomin,HNX,stock
 HLD,Cong ty Co phan Dau tu va Phat trien Bat dong san HUDLAND,HNX,stock
-HLR,Cong ty Co phan Duong sat Ha Lang,UPCOM,stock
 HLS,Cong ty Co phan Su ky thuat Hoang Lien Son,UPCOM,stock
 HLT,Cong ty Co phan Det may Hoang Thi Loan,UPCOM,stock
 HLY,Cong ty Co phan Gom Xay Dung Yen Hung,UPCOM,stock
@@ -611,7 +667,6 @@ HPH,Cong ty Co phan Hoa Chat Hung Phat Ha Bac,UPCOM,stock
 HQC,Cong ty Co phan Tu van - Thuong mai - Dich vu Dia oc Hoang Quan,HSX,stock
 HRB,Cong ty Co phan Harec Dau tu va Thuong Mai,UPCOM,stock
 HRC,Cong ty Co phan Cao su Hoa Binh,HSX,stock
-HRT,Cong ty Co phan Van tai duong sat Ha Noi,UPCOM,stock
 HSA,Cong ty Co phan HESTIA,UPCOM,stock
 HSG,Cong ty Co phan Tap doan Hoa Sen,HSX,stock
 HSI,Cong ty Co phan Vat tu Tong hop va Phan bon Hoa sinh,UPCOM,stock
@@ -680,10 +735,10 @@ ITQ,Cong ty Co phan Tap doan Thien Quang,HNX,stock
 ITS,Cong ty Co phan Dau tu-Thuong mai va Dich vu - Vinacomin,UPCOM,stock
 IVS,Cong ty Co phan Chung khoan Guotai Junan (Viet Nam),HNX,stock
 JOS,Cong ty CP Che bien Thuy san Xuat khau Minh Hai,UPCOM,stock
+JP225,Nikkei225 Japan (CFD),WORLDINDEX,worldindex
 JVC,Cong ty Co phan Dau tu va Phat trien Y te Viet Nhat,HSX,stock
 KAC,Cong ty Co phan Dau tu Dia oc Khang An,UPCOM,stock
 KBC,Tong Cong ty Phat trien Do thi Kinh Bac,HSX,stock
-KOS,Cong ty Co phan KOSY,HSX,stock
 KCB,Cong ty Co phan Khoang San va Luyen Kim Cao Bang,UPCOM,stock
 KCE,Cong ty Co phan Be tong Ly tam Dien luc Khanh Hoa,UPCOM,stock
 KDC,Cong ty Co phan Tap doan KIDO,HSX,stock
@@ -697,7 +752,9 @@ KLF,Cong ty Co phan Dau tu Thuong mai va Xuat nhap khau CFS,UPCOM,stock
 KLM,Cong ty Co phan Kim loai mau Nghe Tinh,UPCOM,stock
 KMR,Cong ty Co phan Mirae,HSX,stock
 KMT,Cong ty Co phan Kim khi Mien Trung,HNX,stock
+KOS,Cong ty Co phan KOSY,HSX,stock
 KPF,Cong ty Co phan Dau tu Tai san KOJI,HSX,stock
+KS11,KOSPI South Korea (Seoul),WORLDINDEX,worldindex
 KSB,Cong ty Co phan Khoang san va Xay dung Binh Duong,HSX,stock
 KSD,Cong ty Co phan Dau tu DNA,HNX,stock
 KSF,Cong ty co phan Tap doan Real Tech,HNX,stock
@@ -769,6 +826,7 @@ LQN,Cong ty Co phan Licogi Quang Ngai,UPCOM,stock
 LSG,Cong ty Co phan Bat dong san Sai Gon Vi na,UPCOM,stock
 LSS,Cong ty Co phan Mia duong Lam Son,HSX,stock
 LTC,Cong ty Co phan Dien nhe Vien Thong,UPCOM,stock
+LTCUSDT,LTC/USDT,BINANCE,crypto
 LTG,Cong ty Co phan Tap doan Loc Troi,UPCOM,stock
 LUT,Cong ty Co phan Dau tu Xay dung Luong Tai,UPCOM,stock
 M10,Tong cong ty May 10 - Cong ty Co phan,UPCOM,stock
@@ -795,6 +853,7 @@ MED,Cong ty Co phan Duoc Trung uong Mediplantex,HNX,stock
 MEF,Cong ty Co phan MEINFA,UPCOM,stock
 MEL,Cong ty Co phan Thep Me Lin,HNX,stock
 MES,Cong ty Co phan Co dien Cong trinh,UPCOM,stock
+METISUSDT,METIS/USDT,BINANCE,crypto
 MFS,Cong ty Co phan Dich vu ky thuat Mobifone,UPCOM,stock
 MGC,Cong ty Co phan Dia chat mo - TKV,UPCOM,stock
 MGG,Tong Cong ty Duc Giang - Cong ty Co phan,UPCOM,stock
@@ -807,6 +866,7 @@ MIE,Tong Cong ty May va Thiet bi Cong nghiep - CTCP,UPCOM,stock
 MIG,Tong Cong ty Co phan Bao hiem Quan doi,HSX,stock
 MIM,Cong ty Co phan Khoang san va Co khi,UPCOM,stock
 MKP,Cong ty Co phan Hoa - Duoc pham Mekophar,UPCOM,stock
+MKRUSDT,MKR/USDT,BINANCE,crypto
 MKV,Cong ty Co phan Duoc Thu Y Cai Lay,HNX,stock
 MLC,Cong ty Co phan Moi truong Do thi Tinh Lao Cai,UPCOM,stock
 MLS,Cong ty Co phan Chan nuoi - Mitraco,UPCOM,stock
@@ -856,6 +916,7 @@ NCG,Cong ty Co phan Tap doan Nova Consumer,UPCOM,stock
 NCS,Cong ty Co phan Suat an Hang khong Noi Bai,UPCOM,stock
 NCT,Cong ty Co phan Dich vu Hang hoa Noi Bai,HSX,stock
 ND2,Cong ty Co phan Dau tu va Phat trien dien Mien Bac 2,UPCOM,stock
+NDAQ,NASDAQ Inc - United States (NASDAQ),WORLDINDEX,worldindex
 NDC,Cong ty Co phan Nam Duoc,UPCOM,stock
 NDF,Cong ty Co phan Che bien thuc pham nong san xuat khau Nam Dinh,UPCOM,stock
 NDN,Cong ty Co phan Dau tu Phat trien Nha Da Nang,HNX,stock
@@ -924,6 +985,7 @@ PAN,Cong ty Co phan Tap doan PAN,HSX,stock
 PAP,Cong ty Co phan Dau khi dau tu khai thac Cang Phuoc An,UPCOM,stock
 PAS,Cong ty Co phan Quoc te Phuong Anh,UPCOM,stock
 PAT,Cong ty Co phan Phot pho Apatit Viet Nam,UPCOM,stock
+PAXGUSDT,PAXG/USDT,BINANCE,crypto
 PBC,Cong ty Co phan Duoc Pham Trung uong 1 - Pharbaco,UPCOM,stock
 PBP,Cong ty Co phan Bao bi Dau khi Viet Nam,HNX,stock
 PBT,Cong ty Co Phan Nha va Thuong mai Dau khi,UPCOM,stock
@@ -1072,6 +1134,7 @@ QNC,Cong ty Co phan Xi mang va Xay dung Quang Ninh,UPCOM,stock
 QNP,Cong ty Co phan Cang Quy Nhon,HSX,stock
 QNS,Cong ty Co phan Duong Quang Ngai,UPCOM,stock
 QNT,Cong ty Co phan Tu van va Dau tu Phat trien Quang Nam,UPCOM,stock
+QNTUSDT,QNT/USDT,BINANCE,crypto
 QNU,Cong ty Co phan Moi truong Do thi Quang Nam,UPCOM,stock
 QNW,Cong ty Co phan Cap thoat nuoc va xay dung Quang Ngai,UPCOM,stock
 QPH,Cong ty Co phan Thuy dien Que Phong,UPCOM,stock
@@ -1203,6 +1266,7 @@ SMN,Cong ty Co phan Sach va thiet bi giao duc Mien Nam,HNX,stock
 SMT,Cong ty Co phan SAMETEL,HNX,stock
 SNC,Cong ty Co phan Xuat nhap khau Thuy san Nam Can,UPCOM,stock
 SNZ,Tong Cong ty Co phan Phat trien Khu Cong nghiep,UPCOM,stock
+SOLUSDT,SOL/USDT,BINANCE,crypto
 SP2,Cong ty Co phan Thuy dien Su Pan 2,UPCOM,stock
 SPB,Cong ty Co phan Soi Phu Bai,UPCOM,stock
 SPC,Cong ty Co phan Bao ve Thuc vat Sai Gon,HNX,stock
@@ -1216,9 +1280,9 @@ SRA,Cong ty Co phan SARA Viet Nam,HNX,stock
 SRB,Cong ty Co phan Tap doan Sara,UPCOM,stock
 SRC,Cong ty Co phan Cao su Sao Vang,HSX,stock
 SRF,Cong ty Co phan Searefico,HSX,stock
-SRT,Cong ty Co phan Van tai Duong sat Sai Gon,UPCOM,stock
 SSB,Ngan hang Thuong mai Co phan Dong Nam A,HSX,stock
 SSC,Cong ty Co phan Giong cay trong Mien Nam,HSX,stock
+SSEC,Shanghai ComPosite - China (Shanghai),WORLDINDEX,worldindex
 SSF,Cong ty Co phan Giao duc G Sai Gon,UPCOM,stock
 SSG,Cong ty Co phan Van tai Bien Hai Au,UPCOM,stock
 SSH,Cong ty Co phan Phat trien Sunshine Homes,UPCOM,stock
@@ -1254,6 +1318,7 @@ TA6,Cong ty Co phan Dau tu va Xay lap Thanh An 665,UPCOM,stock
 TA9,Cong ty Co phan Xay lap Thanh An 96,HNX,stock
 TAL,Cong Ty Co Phan Dau Tu Bat Dong San Taseco,UPCOM,stock
 TAN,Cong ty Co phan Ca phe Thuan An,UPCOM,stock
+TAOUSDT,TAO/USDT,BINANCE,crypto
 TAR,Cong ty Co phan Nong nghiep Cong nghe cao Trung An,HNX,stock
 TAW,Cong ty Co phan Cap nuoc Trung An,UPCOM,stock
 TB8,Cong ty Co phan San xuat va Kinh doanh Vat tu Thiet bi - VVMI,UPCOM,stock
@@ -1263,7 +1328,6 @@ TBH,Cong ty Co phan Tong Bach Hoa,UPCOM,stock
 TBR,Cong ty Co phan Dia oc Tan Binh,UPCOM,stock
 TBT,Cong ty Co phan Xay dung Cong trinh Giao thong Ben Tre,UPCOM,stock
 TBX,Cong ty Co phan Xi mang Thai Binh,HNX,stock
-TC6,Cong ty Co phan Than Coc Sau - Vinacomin,HNX,stock
 TCB,Ngan hang Thuong mai Co phan Ky thuong Viet Nam,HSX,stock
 TCD,Cong ty Co phan Dau tu Phat trien Cong nghiep va Van tai,HSX,stock
 TCI,Cong ty Co phan Chung khoan Thanh Cong,HSX,stock
@@ -1282,7 +1346,6 @@ TDF,Cong ty Co phan Trung Do,UPCOM,stock
 TDG,Cong ty Co phan Dau tu TDG Global,HSX,stock
 TDH,Cong ty Co phan Phat trien Nha Thu Duc,HSX,stock
 TDM,Cong ty Co phan Nuoc Thu Dau Mot,HSX,stock
-TDN,Cong ty Co phan Than Deo Nai - Vinacomin,HNX,stock
 TDP,Cong ty Co phan Thuan Duc,HSX,stock
 TDS,Cong ty Co phan Thep Thu Duc - VNSTEEL,UPCOM,stock
 TDT,Cong ty Co phan Dau tu va Phat trien TDT,HNX,stock
@@ -1360,7 +1423,6 @@ TTF,Cong ty Co phan Tap doan Ky nghe Go Truong Thanh,HSX,stock
 TTG,Cong ty Co phan May Thanh Tri,UPCOM,stock
 TTL,Tong Cong ty Thang Long - Cong ty Co phan,HNX,stock
 TTN,Cong ty Co phan Cong nghe & Truyen thong Viet Nam,UPCOM,stock
-TTP,Cong ty Co phan Bao bi Tan Tien,UPCOM,stock
 TTS,Cong ty Co phan Can thep Thai Trung,UPCOM,stock
 TTT,Cong ty Co phan Du Lich - Thuong Mai Tay Ninh,HNX,stock
 TTZ,Cong ty Co phan Dau tu Xay dung va Cong nghe Tien Trung,UPCOM,stock
@@ -1397,6 +1459,7 @@ THU,Cong ty Co phan Moi truong va Cong trinh do thi Thanh Hoa,UPCOM,stock
 THW,Cong ty Co phan Cap nuoc Tan Hoa,UPCOM,stock
 TR1,Cong ty Co phan Van Tai 1 Traco,UPCOM,stock
 TRA,Cong ty Co phan Traphaco,HSX,stock
+TRBUSDT,TRB/USDT,BINANCE,crypto
 TRC,Cong ty Co phan Cao su Tay Ninh,HSX,stock
 TRS,Cong ty Co phan Van tai va Dich vu Hang Hai,UPCOM,stock
 TRT,Cong ty Co phan RedstarCera,UPCOM,stock
@@ -1406,13 +1469,19 @@ UDJ,Cong ty Co phan Phat trien Do thi,UPCOM,stock
 UDL,Cong ty Co phan Do thi va Moi truong Dak Lak,UPCOM,stock
 UEM,Cong ty Co phan Co dien Uong Bi - Vinacomin,UPCOM,stock
 UIC,Cong ty Co phan Dau tu Phat trien Nha va Do thi IDICO,HSX,stock
+UK100,FTSE 100 United Kingdom (CFD),WORLDINDEX,worldindex
 UMC,Cong ty Co phan Cong trinh do thi Nam Dinh,UPCOM,stock
 UNI,Cong ty Co phan Dau tu va Phat trien Sao Mai Viet,HNX,stock
 UPC,Cong ty Co phan Phat trien Cong vien Cay xanh va Do thi Vung Tau,UPCOM,stock
 UPCOM,UPCOM,UPCOM,index
 UPH,Cong ty Co phan Duoc pham TW25,UPCOM,stock
+US500,S&P500 - United States (NYSE),WORLDINDEX,worldindex
 USC,Cong ty Co phan Khao sat va Xay dung - USCO,UPCOM,stock
 USD,Cong ty Co phan Cong trinh Do thi Soc Trang,UPCOM,stock
+USDCAD,USD/CAD,FOREX,forex
+USDCUSDT,USDC/USDT,BINANCE,crypto
+USDJPY,USD/JPY,FOREX,forex
+USDVND,USD/VND,FOREX,forex
 V11,Cong ty Co phan Xay dung so 11,UPCOM,stock
 V12,Cong ty Co phan Xay dung so 12,HNX,stock
 V15,Cong ty Co phan Xay dung so 15,UPCOM,stock
@@ -1523,6 +1592,7 @@ VNA,Cong ty Co phan Van tai bien Vinaship,UPCOM,stock
 VNB,Cong ty Co phan Sach Viet Nam,UPCOM,stock
 VNC,Cong ty Co phan Tap doan Vinacontrol,HNX,stock
 VND,Cong ty Co phan Chung khoan VNDIRECT,HSX,stock
+VNDUSD,VND/USD,FOREX,forex
 VNE,Tong Cong ty Co phan Xay dung dien Viet Nam,HSX,stock
 VNF,Cong ty Co phan Vinafreight,HNX,stock
 VNI,Cong ty Co phan Dau tu Bat dong san Viet Nam,UPCOM,stock
@@ -1592,6 +1662,7 @@ VWS,Cong ty Co phan Nuoc va Moi truong Viet Nam,UPCOM,stock
 VXB,Cong ty Co phan Vat lieu xay dung Ben Tre,UPCOM,stock
 VXP,Cong ty Co phan Thuoc Thu y Trung uong VETVACO,UPCOM,stock
 VXT,Cong ty Co phan Kho van va dich vu thuong mai,UPCOM,stock
+WBETHUSDT,WBETH/USDT,BINANCE,crypto
 WCS,Cong ty Co phan Ben xe Mien Tay,HNX,stock
 WSB,Cong ty Co phan Bia Sai Gon - Mien Tay,UPCOM,stock
 WSS,Cong ty Co phan Chung khoan Pho Wall,HNX,stock
@@ -1599,49 +1670,21 @@ WTC,Cong ty Co phan Van tai thuy - Vinacomin,UPCOM,stock
 X20,Cong ty Co phan X20,HNX,stock
 X26,Cong ty Co phan 26,UPCOM,stock
 X77,Cong ty Co phan Thanh An 77,UPCOM,stock
+XAUEUR,XAU/EUR,FOREX,forex
+XAUGBP,XAU/GBP,FOREX,forex
+XAUUSD,XAU/USD,FOREX,forex
 XDH,Cong ty Co phan Dau tu Xay dung Dan dung Ha Noi,UPCOM,stock
 XHC,Cong ty Co phan Xuan Hoa Viet Nam,UPCOM,stock
+XLMUSDT,XLM/USDT,BINANCE,crypto
 XLV,Cong ty Co phan Xay lap va Dich vu Song Da,UPCOM,stock
 XMC,Cong ty co phan Dau tu va Xay dung Xuan Mai,UPCOM,stock
 XMD,Cong ty Co phan Xuan Mai - Dao Tu,UPCOM,stock
 XMP,Cong ty Co phan Thuy dien Xuan Minh,UPCOM,stock
 XPH,Cong ty Co phan Xa phong Ha Noi,UPCOM,stock
+XRPUSDT,XRP/USDT,BINANCE,crypto
 YBC,Cong ty Co phan Xi mang va Khoang san Yen Bai,UPCOM,stock
 YBM,Cong ty Co phan Khoang san Cong nghiep Yen Bai,HSX,stock
 YEG,Cong ty Co phan Tap doan Yeah1,HSX,stock
-YTC,Cong ty Co phan Xuat nhap khau Y te Thanh pho Ho Chi Minh,UPCOM,stock
-BTCUSDT,BTC/USDT,BINANCE,crypto
-XRPUSDT,XRP/USDT,BINANCE,crypto
-DOGEUSDT,DOGE/USDT,BINANCE,crypto
-USDCUSDT,USDC/USDT,BINANCE,crypto
-SOLUSDT,SOL/USDT,BINANCE,crypto
-ADAUSDT,ADA/USDT,BINANCE,crypto
-ETHUSDT,ETH/USDT,BINANCE,crypto
-EOSUSDT,EOS/USDT,BINANCE,crypto
-LTCUSDT,LTC/USDT,BINANCE,crypto
-BNBUSDT,BNB/USDT,BINANCE,crypto
-XLMUSDT,XLM/USDT,BINANCE,crypto
-DEXEUSDT,DEXE/USDT,BINANCE,crypto
-WBTCUSDT,WBTC/USDT,BINANCE,crypto
 YFIUSDT,YFI/USDT,BINANCE,crypto
-PAXGUSDT,PAXG/USDT,BINANCE,crypto
-WBETHUSDT,WBETH/USDT,BINANCE,crypto
-MKRUSDT,MKR/USDT,BINANCE,crypto
-TAOUSDT,TAO/USDT,BINANCE,crypto
-BCHUSDT,BCH/USDT,BINANCE,crypto
-AAVEUSDT,AAVE/USDT,BINANCE,crypto
-BIFIUSDT,BIFI/USDT,BINANCE,crypto
-BNSOLUSDT,BNSOL/USDT,BINANCE,crypto
-GNOUSDT,GNO/USDT,BINANCE,crypto
-QNTUSDT,QNT/USDT,BINANCE,crypto
-COMPUSDT,COMP/USDT,BINANCE,crypto
-TRBUSDT,TRB/USDT,BINANCE,crypto
-FARMUSDT,FARM/USDT,BINANCE,crypto
+YTC,Cong ty Co phan Xuat nhap khau Y te Thanh pho Ho Chi Minh,UPCOM,stock
 ZECUSDT,ZEC/USDT,BINANCE,crypto
-DASHUSDT,DASH/USDT,BINANCE,crypto
-BANANAUSDT,BANANA/USDT,BINANCE,crypto
-ENSUSDT,ENS/USDT,BINANCE,crypto
-AVAXUSDT,AVAX/USDT,BINANCE,crypto
-GMXUSDT,GMX/USDT,BINANCE,crypto
-EGLDUSDT,EGLD/USDT,BINANCE,crypto
-METISUSDT,METIS/USDT,BINANCE,crypto
