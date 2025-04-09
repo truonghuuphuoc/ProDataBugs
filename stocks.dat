@@ -7,6 +7,7 @@ Ticker,Company,Market,Type
 ^HG,Copper Futures (CFD),COMMODITY,commodity
 ^LCO,Brent Oil Futures (CFD),COMMODITY,commodity
 ^NDX,NASDAQ 100 - United States (NASDAQ),WORLDINDEX,worldindex
+US2000,US Small Cap 2000 - United States (NYSE),WORLDINDEX,worldindex
 ^NG,Natural Gas Futures (CFD),COMMODITY,commodity
 ^SI,Silver Futures (CFD),COMMODITY,commodity
 ^VFS,VinFast Auto (NASDAQ),WORLDINDEX,worldindex
@@ -923,7 +924,7 @@ NCG,Cong ty Co phan Tap doan Nova Consumer,UPCOM,stock
 NCS,Cong ty Co phan Suat an Hang khong Noi Bai,UPCOM,stock
 NCT,Cong ty Co phan Dich vu Hang hoa Noi Bai,HSX,stock
 ND2,Cong ty Co phan Dau tu va Phat trien dien Mien Bac 2,UPCOM,stock
-NDAQ,NASDAQ Inc - United States (NASDAQ),WORLDINDEX,worldindex
+NASDAQ,NASDAQ Composite,WORLDINDEX,worldindex
 NDC,Cong ty Co phan Nam Duoc,UPCOM,stock
 NDF,Cong ty Co phan Che bien thuc pham nong san xuat khau Nam Dinh,UPCOM,stock
 NDN,Cong ty Co phan Dau tu Phat trien Nha Da Nang,HNX,stock
@@ -1481,7 +1482,9 @@ UEM,Cong ty Co phan Co dien Uong Bi - Vinacomin,UPCOM,stock
 UIC,Cong ty Co phan Dau tu Phat trien Nha va Do thi IDICO,HSX,stock
 UK100,FTSE 100 United Kingdom (CFD),WORLDINDEX,worldindex
 UMC,Cong ty Co phan Cong trinh do thi Nam Dinh,UPCOM,stock
+^FCHI,CAC 40 - France,WORLDINDEX,worldindex
 UNI,Cong ty Co phan Dau tu va Phat trien Sao Mai Viet,HNX,stock
+^NYA,NYSE Composite,WORLDINDEX,worldindex
 UPC,Cong ty Co phan Phat trien Cong vien Cay xanh va Do thi Vung Tau,UPCOM,stock
 UPCOMINDEX,UPCOMINDEX,UPCOM,index
 UPH,Cong ty Co phan Duoc pham TW25,UPCOM,stock
