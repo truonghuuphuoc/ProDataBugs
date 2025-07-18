@@ -1630,6 +1630,7 @@ VPC,Cong ty Co phan Dau tu va Phat trien Nang luong Viet Nam,UPCOM,stock
 VPD,Cong ty Co phan Phat trien Dien luc Viet Nam,HSX,stock
 VPG,Cong ty Co phan Dau tu Thuong mai Xuat nhap khau Viet Phat,HSX,stock
 VPI,Cong ty Co phan Dau tu Van Phu - Invest,HSX,stock
+VPL,Cong ty Co phan Vinpearl,HSX,stock
 VPR,Cong ty Co phan VINAPRINT,UPCOM,stock
 VPS,Cong ty Co phan Thuoc sat trung Viet Nam,HSX,stock
 VPW,Cong ty Co phan Cap thoat nuoc so 1 Vinh Phuc,UPCOM,stock
@@ -1687,6 +1688,9 @@ X77,Cong ty Co phan Thanh An 77,UPCOM,stock
 XAUEUR,XAU/EUR,FOREX,forex
 XAUGBP,XAU/GBP,FOREX,forex
 XAUUSD,XAU/USD,FOREX,forex
+EURVND,EUR/VND,FOREX,forex
+GBPVND,GBP/VND,FOREX,forex
+CADVND,CAD/VND,FOREX,forex
 XDH,Cong ty Co phan Dau tu Xay dung Dan dung Ha Noi,UPCOM,stock
 XHC,Cong ty Co phan Xuan Hoa Viet Nam,UPCOM,stock
 XLMUSDT,XLM/USDT,BINANCE,crypto
@@ -1705,6 +1709,7 @@ ZECUSDT,ZEC/USDT,BINANCE,crypto
 ETH-USDT,ETH/USDT,OKX,okxcrypto
 BTC-USDT,BTC/USDT,OKX,okxcrypto
 PI-USDT,PI/USDT,OKX,okxcrypto
+XAUT-USDT,XAUT/USDT,OKX,okxcrypto
 VNALL,VNALL,HSX,index
 VNXALL,VNXALL,HSX,index
 VN100,VN100,HSX,index
