@@ -105,7 +105,6 @@ AUDUSD,AUD/USD,FOREX,forex
 AVAXUSDT,AVAX/USDT,BINANCE,crypto
 AVC,Cong ty Co phan Thuy dien A Vuong,UPCOM,stock
 AVG,Cong ty Co phan Phan bon Quoc te Au Viet,UPCOM,stock
-B82,Cong ty Co phan 482,UPCOM,stock
 BAB,Ngan hang Thuong mai Co phan Bac A,HNX,stock
 BAF,Cong ty Co phan Nong nghiep BAF Viet Nam,HSX,stock
 BAL,Cong ty Co phan Bao bi Bia - Ruou - Nuoc giai khat,UPCOM,stock
@@ -655,7 +654,7 @@ HNM,Cong ty Co phan Sua Ha Noi,UPCOM,stock
 HNP,Cong ty Co phan Hanel Xop Nhua,UPCOM,stock
 HNR,Cong ty Co phan Ruou va Nuoc Giai Khat Ha Noi,UPCOM,stock
 HNX30,HNX30,HNX,index
-HNXINDEX,HNXINDEX,HNX,index
+HNX,HNXINDEX,HNX,index
 HNG,Cong ty Co phan Nong nghiep Quoc te Hoang Anh Gia Lai,HSX,stock
 HOM,Cong ty Co phan Xi mang VICEM Hoang Mai,HNX,stock
 HOT,Cong ty Co phan Du lich - Dich vu Hoi An,UPCOM,stock
@@ -1486,7 +1485,7 @@ UMC,Cong ty Co phan Cong trinh do thi Nam Dinh,UPCOM,stock
 UNI,Cong ty Co phan Dau tu va Phat trien Sao Mai Viet,HNX,stock
 ^NYA,NYSE Composite,WORLDINDEX,worldindex
 UPC,Cong ty Co phan Phat trien Cong vien Cay xanh va Do thi Vung Tau,UPCOM,stock
-UPCOMINDEX,UPCOMINDEX,UPCOM,index
+UPCOM,UPCOMINDEX,UPCOM,index
 UPH,Cong ty Co phan Duoc pham TW25,UPCOM,stock
 US500,S&P500 - United States (NYSE),WORLDINDEX,worldindex
 USC,Cong ty Co phan Khao sat va Xay dung - USCO,UPCOM,stock
