@@ -1490,7 +1490,6 @@ USD,Cong ty Co phan Cong trinh Do thi Soc Trang,UPCOM,stock
 USDCAD,USD/CAD,FOREX,forex
 USDCUSDT,USDC/USDT,BINANCE,crypto
 USDJPY,USD/JPY,FOREX,forex
-USDVND,USD/VND,FOREX,forex
 V11,Cong ty Co phan Xay dung so 11,UPCOM,stock
 V12,Cong ty Co phan Xay dung so 12,HNX,stock
 V15,Cong ty Co phan Xay dung so 15,UPCOM,stock
@@ -1674,6 +1673,8 @@ VXB,Cong ty Co phan Vat lieu xay dung Ben Tre,UPCOM,stock
 VXP,Cong ty Co phan Thuoc Thu y Trung uong VETVACO,UPCOM,stock
 VXT,Cong ty Co phan Kho van va dich vu thuong mai,UPCOM,stock
 WBETHUSDT,WBETH/USDT,BINANCE,crypto
+BTCUSDm,BTC/USD,MT5,mt5
+ETHUSDm,ETH/USD,MT5,mt5
 WCS,Cong ty Co phan Ben xe Mien Tay,HNX,stock
 WSB,Cong ty Co phan Bia Sai Gon - Mien Tay,UPCOM,stock
 WSS,Cong ty Co phan Chung khoan Pho Wall,HNX,stock
@@ -1687,6 +1688,9 @@ XAUUSD,XAU/USD,FOREX,forex
 EURVND,EUR/VND,FOREX,forex
 GBPVND,GBP/VND,FOREX,forex
 CADVND,CAD/VND,FOREX,forex
+EURUSDm,EUR/USD,MT5,mt5
+XAUUSDm,Gold/USD,MT5,mt5
+XAGUSDm,Silver/USD,MT5,mt5
 XDH,Cong ty Co phan Dau tu Xay dung Dan dung Ha Noi,UPCOM,stock
 XHC,Cong ty Co phan Xuan Hoa Viet Nam,UPCOM,stock
 XLMUSDT,XLM/USDT,BINANCE,crypto
@@ -1706,8 +1710,15 @@ ETH-USDT,ETH/USDT,OKX,okxcrypto
 BTC-USDT,BTC/USDT,OKX,okxcrypto
 PI-USDT,PI/USDT,OKX,okxcrypto
 XAUT-USDT,XAUT/USDT,OKX,okxcrypto
+GBPJPYm,GBP/JPY,MT5,mt5
+GBPUSDm,GBP/USD,MT5,mt5
+AUDUSDm,AUD/USD,MT5,mt5
 VNALL,VNALL,HSX,index
 VNXALL,VNXALL,HSX,index
 VN100,VN100,HSX,index
 VNSML,VNSML,HSX,index
 VNMID,VNMID,HSX,index
+USDVND,USD/VND,FOREX,forex
+USDJPYm,USD/JPY,MT5,mt5
+USOILm,Crude Oil,MT5,mt5
+DXYm,US Dollar Index,MT5,mt5
