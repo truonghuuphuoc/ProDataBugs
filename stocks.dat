@@ -165,6 +165,7 @@ BMS,Cong ty Co phan Chung khoan Bao Minh,UPCOM,stock
 BMV,Cong ty Co phan Bot my Vinafood 1,UPCOM,stock
 BNA,Cong ty Co phan Dau tu San xuat Bao Ngoc,HNX,stock
 BNBUSDT,BNB/USDT,BINANCE,crypto
+BNBUSDT-SWAP,BNB/USDT futures,BINANCE,crypto
 BNW,Cong ty Co phan Nuoc sach Bac Ninh,UPCOM,stock
 BOT,Cong ty Co phan BOT Cau Thai Ha,UPCOM,stock
 BPC,Cong ty Co phan Vicem Bao bi Bim Son,HNX,stock
@@ -188,6 +189,7 @@ BT6,Cong ty Co phan BETON 6,UPCOM,stock
 BTB,Cong ty Co phan Bia Ha Noi - Thai Binh,UPCOM,stock
 BTCUSD,BTC/USD (Bitfinex),FOREX,worldindex
 BTCUSDT,BTC/USDT,BINANCE,crypto
+BTCUSDT-SWAP,BTC/USDT futures,BINANCE,crypto
 BTD,Cong ty Co phan Be tong ly tam Thu Duc,UPCOM,stock
 BTG,Cong ty Co phan Bao bi Tien Giang,UPCOM,stock
 BTN,Cong ty Co phan Dau tu Bitco Binh Dinh,UPCOM,stock
@@ -477,6 +479,7 @@ EOSUSDT,EOS/USDT,BINANCE,crypto
 EPC,Cong ty Co phan Ca Phe Ea Pok,UPCOM,stock
 EPH,Cong ty Co phan Dich vu Xuat ban Giao duc Ha Noi,UPCOM,stock
 ETHUSDT,ETH/USDT,BINANCE,crypto
+ETHUSDT-SWAP,ETH/USDT futures,BINANCE,crypto
 EURUSD,EUR/USD,FOREX,forex
 EVE,Cong ty Co phan Everpia,HSX,stock
 EVF,Cong ty Tai chinh Co phan Dien Luc,HSX,stock
@@ -1705,9 +1708,13 @@ YFIUSDT,YFI/USDT,BINANCE,crypto
 YTC,Cong ty Co phan Xuat nhap khau Y te Thanh pho Ho Chi Minh,UPCOM,stock
 ZECUSDT,ZEC/USDT,BINANCE,crypto
 ETH-USDT,ETH/USDT,OKX,okxcrypto
+ETH-USDT-SWAP,ETH/USDT futures,OKX,okxcrypto
 BTC-USDT,BTC/USDT,OKX,okxcrypto
+BTC-USDT-SWAP,BTC/USDT futures,OKX,okxcrypto
 PI-USDT,PI/USDT,OKX,okxcrypto
+PI-USDT-SWAP,PI/USDT futures,OKX,okxcrypto
 XAUT-USDT,XAUT/USDT,OKX,okxcrypto
+XAU-USDT-SWAP,XAU/USDT futures,OKX,okxcrypto
 GBPJPYm,GBP/JPY,MT5,mt5
 GBPUSDm,GBP/USD,MT5,mt5
 AUDUSDm,AUD/USD,MT5,mt5
@@ -1720,3 +1727,5 @@ USDVND,USD/VND,FOREX,forex
 USDJPYm,USD/JPY,MT5,mt5
 USOILm,Crude Oil,MT5,mt5
 DXYm,US Dollar Index,MT5,mt5
+TCX,Cong ty CP Chung Khoan Ky thuong,HSX,stock
+VCK,Cong ty CP Chung Khoan VPS,HSX,stock
